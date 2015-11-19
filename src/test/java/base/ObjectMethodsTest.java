@@ -8,7 +8,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * CFCA Copyright
  * Created by wufan on 15/11/17.
  */
 public class ObjectMethodsTest {
